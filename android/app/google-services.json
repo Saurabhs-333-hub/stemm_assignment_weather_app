@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "222215952770",
+    "project_id": "weather-app-8c16e",
+    "storage_bucket": "weather-app-8c16e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222215952770:android:f66b471d2b0c5f2586979b",
+        "android_client_info": {
+          "package_name": "com.example.stemm_assignment_weather_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA4e3O8p3BciPTr2EeOXPrLaONXAzfG6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
